@@ -4,8 +4,9 @@ Lightweight image croping tool.
 
 ## Component
 
-    /res :
-    main.py
+    ./res: resource folder.
+    ./src: source code folder.
+    ./src/main.py: start file of tool.
 
 ## Requirement
 
