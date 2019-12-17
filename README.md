@@ -3,10 +3,10 @@
 Lightweight image croping tool.
 
 ## Component
-```
+
     /res :
     main.py
-```
+
 ## Requirement
 
 Python 3.6.0 or newer.
